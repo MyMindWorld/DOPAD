@@ -1,0 +1,4 @@
+N Name Salary Long PayAll
+(1, 'Pavel', 80, 2, 160)
+(2, 'Efim', 80, 2, 160)
+(3, 'Gleb', 60, 4, 240)

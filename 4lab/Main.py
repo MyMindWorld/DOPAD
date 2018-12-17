@@ -70,5 +70,6 @@ def compare():
                 c += 1
                 if real != server:
                     print('В выражении №', c, ' ошибка', real, ' не равно', server)
-
+sort_and_format()
+del_garbage()
 compare()
